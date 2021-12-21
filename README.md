@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Blog Pessoal - Pelas ruas que andei </h1>
+  <h1 align="center"> 🌼 Blog Pessoal - Pelas ruas que andei 🌼</h1>
   <p align="center">Blog Pessoal é um projeto realizado com o intuito de implementar os conhecimentos obtidos durante o Bootcamp da Generation Brasil.
   
 <br />
