@@ -15,7 +15,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nome\": \"Maria da Silva\",\r\n    \"usuario\": \"maria@email.com\",\r\n    \"senha\": \"123456\",\r\n    \"foto\": \"Sem foto.\"\r\n}",
+							"raw": "{\r\n    \"nome\": \"Mariana Medrano\",\r\n    \"usuario\": \"maremedrano@yahoo.com\",\r\n    \"senha\": \"123456\",\r\n    \"foto\": \"Sem foto.\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -23,12 +23,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8080/usuarios/cadastrar",
-							"protocol": "http",
+							"raw": "https://pelasruasqueandei.herokuapp.com/usuarios/cadastrar",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"pelasruasqueandei",
+								"herokuapp",
+								"com"
 							],
-							"port": "8080",
 							"path": [
 								"usuarios",
 								"cadastrar"
@@ -52,12 +53,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8080/usuarios/logar",
-							"protocol": "http",
+							"raw": "https://pelasruasqueandei.herokuapp.com/usuarios/logar",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"pelasruasqueandei",
+								"herokuapp",
+								"com"
 							],
-							"port": "8080",
 							"path": [
 								"usuarios",
 								"logar"
@@ -73,15 +75,15 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Basic d2VzLnJpb3NAZ21haWwuY29tOjEyMzQ1Ng==",
+								"value": "Basic bWFyZW1lZHJhbm9AeWFob28uY29tOjEyMzQ1Ng==",
 								"type": "text"
 							}
 						],
 						"url": {
-							"raw": "https://bloghistory.herokuapp.com/usuarios/listar",
+							"raw": "https://pelasruasqueandei.herokuapp.com/usuarios/listar",
 							"protocol": "https",
 							"host": [
-								"bloghistory",
+								"pelasruasqueandei",
 								"herokuapp",
 								"com"
 							],
@@ -111,7 +113,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"descricao\": \"Lugares\"\r\n}",
+							"raw": "{\r\n    \"descricao\": \"Viagens\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -119,12 +121,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8080/temas",
-							"protocol": "http",
+							"raw": "https://pelasruasqueandei.herokuapp.com/temas",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"pelasruasqueandei",
+								"herokuapp",
+								"com"
 							],
-							"port": "8080",
 							"path": [
 								"temas"
 							]
@@ -142,7 +145,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Basic d2VzLnJpb3NAZ21haWwuY29tOjEyMzQ1Ng==",
+								"value": "Basic bWFyZW1lZHJhbm9AeWFob28uY29tOjEyMzQ1Ng==",
 								"type": "text"
 							}
 						],
@@ -188,7 +191,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id\": 1,\r\n    \"titulo\": \"Uma viagem no tempo em Paraty (RJ)\",\r\n    \"texto\": \"A cidade de Paraty, localizada no litoral sul do estado do Rio de Janeiro, foi fundada em 1667 e teve grande importância econômica para o Brasil entre os séculos XVII e XIX, por saírem, de seus portos, navios que exportavam, para a Europa, açúcar, café e ouro. Atualmente, a cidade conta com uma rica beleza natural e arquitetônica, principalmente pelo centro histórico com casario colonial que nos leva a uma breve viagem no tempo.\",\r\n    \"tema\": {\r\n        \"id\": 1\r\n    },\r\n    \"usuario\": {\r\n        \"id\": 1\r\n    }\r\n}",
+							"raw": "{\r\n    \"id\": 1,\r\n    \"titulo\": \"Uma viagem no tempo em Paraty (RJ)\",\r\n    \"texto\": \"A cidade de Paraty, localizada no litoral sul do estado do Rio de Janeiro, foi fundada em 1667 e teve grande importância econômica para o Brasil entre os séculos XVII e XIX, por saírem, de seus portos, navios que exportavam, para a Europa, açúcar, café e ouro. Atualmente, a cidade conta com uma rica beleza natural e arquitetônica, principalmente pelo centro histórico com casario colonial que nos leva a uma breve viagem no tempo.\",\r\n    \"tema\": {\r\n        \"id\": 2\r\n    },\r\n    \"usuario\": {\r\n        \"id\": 1\r\n    }\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -196,12 +199,13 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8080/postagens",
-							"protocol": "http",
+							"raw": "https://pelasruasqueandei.herokuapp.com/postagens",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"pelasruasqueandei",
+								"herokuapp",
+								"com"
 							],
-							"port": "8080",
 							"path": [
 								"postagens"
 							]
@@ -221,12 +225,13 @@
 							}
 						],
 						"url": {
-							"raw": "http://localhost:8080/postagens",
-							"protocol": "http",
+							"raw": "https://pelasruasqueandei.herokuapp.com/postagens",
+							"protocol": "https",
 							"host": [
-								"localhost"
+								"pelasruasqueandei",
+								"herokuapp",
+								"com"
 							],
-							"port": "8080",
 							"path": [
 								"postagens"
 							]
