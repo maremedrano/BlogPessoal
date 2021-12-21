@@ -10,17 +10,17 @@
  <img align=center src="https://i.imgur.com/jleGAxG.png" alt="Tela principal Blog Pessoal" width="800">
 </div>
 
-## 🏵️ Sobre
+## Sobre
 O blog pessoal "Pelas ruas que andei", de Mariana Medrano, é um espaço para a autora relatar suas experiências em locais que já esteve ou frequentou.
 
 
-## ⚙ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 * [Java](https://www.java.com/pt-BR/)
 * [Spring Boot](https://spring.io/)
 * [MySQL](https://www.mysql.com/)
 
-## 👨‍🚀 Instrutores
+## Agradecimentos
 <p>Agredecimentos aos instrutores na Generation Brasil, que contribuiram imensamente para o desenvolvimento deste projeto.</p>
 
 
