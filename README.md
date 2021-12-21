@@ -25,8 +25,8 @@ O blog pessoal "Pelas ruas que andei", de Mariana Medrano, é um espaço para a 
 * [Spring Boot](https://spring.io/)
 * [MySQL](https://www.mysql.com/)
 
-## Auxiliares
-<p>Agredecimentos aos instrutores na Generation Brasil, que contribuiram imensamente para o desenvolvimento deste projeto. ❤️ </p>
+## 👨‍🚀 Instrutores
+<p>Agredecimentos aos instrutores na Generation Brasil, que contribuiram imensamente para o desenvolvimento deste projeto.</p>
 
 
 <table>
