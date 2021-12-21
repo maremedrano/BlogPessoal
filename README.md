@@ -6,11 +6,6 @@
 </p>
 
 
-  <p align="center">
-  <a href="#-sobre-o-projeto-blog">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ferramentas-e-tecnologias">Ferramentas e Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
 <div align="center">
  <img align=center src="https://i.imgur.com/jleGAxG.png" alt="Tela principal Blog Pessoal" width="800">
 </div>
