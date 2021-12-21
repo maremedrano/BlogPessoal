@@ -31,3 +31,11 @@ O blog pessoal "Pelas ruas que andei", de Mariana Medrano, é um espaço para a 
 	  
 </tr>
 </table>
+
+## Desenvolvedora
+<table>
+  <tr>
+	<td align="center"><a href="https://www.linkedin.com/in/marianamedrano/"><img style="border-radius: 60%;" src="https://i.imgur.com/ZqzNdy0.jpg" width="150px;" alt="Mari"/><br /><sub><b>Mariana Medrano</b></sub></a><br /><a href="https://github.com/maremedrano" title="Desenvolvedora web full stask Java jr."></a></td> 
+	  
+</tr>
+</table>
