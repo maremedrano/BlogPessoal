@@ -26,8 +26,8 @@ O blog pessoal "Pelas ruas que andei", de Mariana Medrano, é um espaço para a 
 
 <table>
   <tr>
-	<td align="center"><a href="https://www.linkedin.com/in/camillacleane/"><img style="border-radius: 60%;" src="https://imgur.com/iRWc2Af.jpg" width="150px;" alt="Camis"/><br /><sub><b>Camilla Cleane</b></sub></a><br /><a href="https://github.com/camillacleanne" title="Instrutora de Backend Generation Brasil">👨‍🚀</a></td> 
-	   <td align="center"><a href="https://www.linkedin.com/in/gabriel-sousa-m-grande/"><img style="border-radius: 60%;" src="https://imgur.com/wvkGvjk.jpg" width="150px;" alt="Gabriel"/><br /><sub><b>Gabriel Sousa</b></sub></a><br /><a href="https://github.com/sousagabriell" title="Instrutor Generation Brasil">👨‍🏫</a></td> 
+	<td align="center"><a href="https://www.linkedin.com/in/camillacleane/"><img style="border-radius: 60%;" src="https://imgur.com/iRWc2Af.jpg" width="150px;" alt="Camis"/><br /><sub><b>Camilla Cleane</b></sub></a><br /><a href="https://github.com/camillacleanne" title="Instrutora de Backend Generation Brasil"></a></td> 
+	   <td align="center"><a href="https://www.linkedin.com/in/gabriel-sousa-m-grande/"><img style="border-radius: 60%;" src="https://imgur.com/wvkGvjk.jpg" width="150px;" alt="Gabriel"/><br /><sub><b>Gabriel Sousa</b></sub></a><br /><a href="https://github.com/sousagabriell" title="Instrutor Generation Brasil"></a></td> 
 	  
 </tr>
 </table>
