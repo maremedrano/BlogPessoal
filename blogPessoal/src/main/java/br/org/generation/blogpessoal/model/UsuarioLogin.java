@@ -12,9 +12,10 @@ public class UsuarioLogin {
 
 	private String foto;
 	
+	private String token;
+	
 	private String tipo;
 	
-	private String token;
 
 	public Long getId() {
 		return id;
@@ -71,7 +72,5 @@ public class UsuarioLogin {
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
-	
-	
 	
 }

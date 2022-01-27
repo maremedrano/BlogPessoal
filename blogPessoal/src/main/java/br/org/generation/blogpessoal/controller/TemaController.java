@@ -22,7 +22,7 @@ import br.org.generation.blogpessoal.repository.TemaRepository;
 
 
 @RestController
-@RequestMapping("/temas")
+@RequestMapping("/tema")
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 public class TemaController {
 
